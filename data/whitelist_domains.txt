@@ -1,0 +1,8 @@
+google.com
+amazon.com
+microsoft.com
+facebook.com
+instagram.com
+apple.com
+northeastern.edu
+
